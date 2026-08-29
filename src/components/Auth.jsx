@@ -135,8 +135,7 @@ export default function Auth() {
               fontSize: '14px'
             }}
           >
-            Explore the world through film
-            and television.
+            Apura's world of film and TV
           </p>
 
         </div>
